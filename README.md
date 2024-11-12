@@ -1,2 +1,3 @@
 This is the README file for the Hello-world project
-d
+
+Author's email : hihhihi@naver.com
